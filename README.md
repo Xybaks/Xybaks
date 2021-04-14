@@ -1,5 +1,5 @@
 # Hi,I'm **Nikolai Berestevich**. 👋
-## I am *Frontend developer* from Minsk,Belarus. 
+## I'm a *Frontend developer* from Minsk,Belarus. 
 ## Check my 🌱 [**portfolioPage**](https://xybaks.github.io/myPortfolioJs) 🌱  or ✨ [**Resume**](https://drive.google.com/file/d/17HsXnY4FnZFJQ1sc9wZYNfYG7xXC25xc/view)✨.
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
