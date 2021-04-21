@@ -13,10 +13,10 @@
 ### 🌐 Telegram: @NikolaiBerestevich (https://t-do.ru/NikolaiBerestevich)
 #
 ### My projects:
-### 1. ⚡ [Portfolio Page](https://github.com/Xybaks/myPortfolioJs) - JavaScript,SCSS,animation,email form. Finished project.The project is published on [gh-pages](https://xybaks.github.io/myPortfolioJs) 
-### 2. 😄 [Crazy Counter](https://github.com/Xybaks/counter2)-  TypeScript, CSS, Redux, Locale storage, HOC, 3 different hooks. Finished small pet project. I could have made it much easier, but it was necessary to train the acquired knowledge. The project is published on [gh-pages](https://Xybaks.github.io/counter2) 
-### 3. 💬 [Powerful TodoList](https://github.com/Xybaks/todoList)-  TypeScript, CSS, Redux, Hooks, Material UI,tests. StoryBook. Unfinished project: work with a server using the REST API will be added. The project is published on [gh-pages](https://Xybaks.github.io/counter2). I’m currently working on ...
-### 4. 🔭 [Social Network](https://github.com/Xybaks/todoList)-  TypeScript, Redux, Hooks, REST API. Unfinished project, I’m currently working on ...
+### 0. ⚡ [Portfolio Page](https://github.com/Xybaks/myPortfolioJs) - JavaScript,SCSS,animation,email form. Finished project.The project is published on [gh-pages](https://xybaks.github.io/myPortfolioJs) 
+### 1. 😄 [Crazy Counter](https://github.com/Xybaks/counter2)-  TypeScript, CSS, Redux, Locale storage, HOC, 3 different hooks. Finished small pet project. I could have made it much easier, but it was necessary to train the acquired knowledge. The project is published on [gh-pages](https://Xybaks.github.io/counter2) 
+### 2. 💬 [Powerful TodoList](https://github.com/Xybaks/todoList)-  TypeScript, CSS, Redux, Hooks, Material UI,tests. StoryBook. Unfinished project: work with a server using the REST API will be added. The project is published on [gh-pages](https://Xybaks.github.io/counter2). I’m currently working on ...
+### 3. 🔭 [Social Network](https://github.com/Xybaks/todoList)-  TypeScript, Redux, Hooks, REST API. Unfinished project, I’m currently working on ...
 
 
 ### Let's fly!
